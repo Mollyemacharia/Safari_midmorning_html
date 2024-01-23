@@ -1,0 +1,29 @@
+Table{
+    width: 90%;
+    border-collapse: collapse;
+    margin: auto;
+}
+Td,Th{
+    border: 5px solid #ff06de;
+    padding: 15px;
+}
+Th{
+    font-family: Chilanka, sans-serif;
+    font-size: x-large;
+    color: blueviolet;
+}
+Td{
+    font-family:monospace;
+    font-size: large;
+    color: #2765b9;
+}
+h2{
+    text-align: center;
+    font-family: Chilanka, sans-serif;
+    font-size: xxx-large;
+    color: #06ffff;
+}
+Tr:nth-child(even){
+    background-color: lightskyblue;
+    background-image: url("assets/Images/car5.jpeg ");
+}

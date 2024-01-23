@@ -1,0 +1,36 @@
+.fruits{
+    border: 3px solid #06ffff;
+    text-align: center;
+    font-family: Chilanka, sans-serif;
+    background-color: darkorchid;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
+.cars{
+    border: 5px double cornflowerblue;
+    text-align: center;
+    font-family: "Bitstream Charter";
+    background-color: crimson;
+    margin: 18px;
+    padding: 18px;
+    font-size: medium;
+}
+.FRUITS{
+    border: 7px solid chocolate;
+    text-align: center;
+    font-family: "Abyssinica SIL";
+    background-color: blanchedalmond;
+    margin: 16px;
+    padding: 16px;
+    font-size: 16px;
+}
+#computer{
+ border: 8px dotted cyan;
+    text-align: center;
+    font-family: "chilanka";
+    background-color:coral;
+    margin: 14px;
+    padding: 14px;
+    font-size: 14px;
+}
